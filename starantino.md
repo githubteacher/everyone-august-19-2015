@@ -1,6 +1,6 @@
-* Name: Sean Tarantino
-* Login: starantino
+* **Name:** Sean Tarantino
+* **Login:** starantino
 
 ### More Details
 
-* Location: Los Angeles, CA
+* **Location:** Los Angeles, CA
