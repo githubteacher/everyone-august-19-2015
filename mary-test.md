@@ -2,4 +2,8 @@
 
 **GitHub for Everyone**
 - Learning Github Workflow
-Learn
+
+* **Location:** San Francisco, CA
+* **Breakfast:** shake
+* **Lunch:** Salad
+* **Favorite vacation:** Japan
