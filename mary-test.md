@@ -2,4 +2,4 @@
 
 **GitHub for Everyone**
 - Learning Github Workflow
-Test
+Learn
