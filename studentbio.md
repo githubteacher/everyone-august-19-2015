@@ -8,4 +8,9 @@ This should be good.
 * At HQ
 
 * ** Breakfast: ** Nothing
-* ** Favorite vacation:** Kauai 
+* ** Favorite vacation:** Kauai
+
+
+# Lunch:
+* ** soup
+* ** Chicken soup to be clear 
