@@ -1,5 +1,5 @@
-* **Name:** GitHub Student
-* **Login:** githubstudent
+# GitHub Student
+* **Login:** @githubstudent
 
 ### More details
 
