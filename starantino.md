@@ -7,4 +7,5 @@
 
 * **Location:** Los Angeles, CA
 
-* **New Field:** Test
+* **Breakfast:** Test
+* **Favorite Vacation:** Anywhere but here
