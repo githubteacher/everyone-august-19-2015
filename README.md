@@ -1,3 +1,1 @@
-# GitHub for Everyone
-
-* August 19, 2015
+# everyone-august-19-2015
