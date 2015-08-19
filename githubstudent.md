@@ -4,3 +4,5 @@
 ### More details
 
 * **Location:** Minneapolis, MN
+* **Breakfast:** toast
+* **Favorite vacation:** Germany
