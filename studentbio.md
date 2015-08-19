@@ -7,10 +7,10 @@ This should be good.
 * In SF
 * At HQ
 
-* ** Breakfast: ** Nothing
+* ** Breakfast: ** Breakfast sando
 * ** Favorite vacation:** Kauai
 
 
 # Lunch:
 * ** soup
-* ** Chicken soup to be clear 
+* ** Chicken soup to be clear
